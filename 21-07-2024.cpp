@@ -12,7 +12,7 @@ class node
 
         node(int data)
         {
-            this->data = data;
+            this->data = data;//create node
             next = NULL;
         }
 };
